@@ -23,13 +23,13 @@ git clone https://github.com/gir-ish/AutismUI.git
 ```
 
 #### **Step 2: Install Dependencies**
-Navigate to the cloned repository's directory and run the setup script:
+<!-- Navigate to the cloned repository's directory and run the setup script:
 ```bash
 cd AutismUI
 ./install_requirements.sh
-```
+``` -->
 
-Alternatively, you can manually install the requirements:
+Install the requirements:
 ```bash
 pip install -r requirements.txt
 ```
@@ -59,11 +59,11 @@ For direct access to the pre-trained model and other resources, use this link:
 3. View the results in an easy-to-read interface.
 
 ---
-
+<!-- 
 ## **Requirements**
 # if needed run or change the path or requirements file in bash file.
 - Additional libraries listed in `requirements.txt`
 
----
+--- -->
 
 Feel free to reach out for suggestions, improvements, or feedback! 🙌  
