@@ -1,4 +1,7 @@
-# **Autism Detection from Voice** 🎙️
+# **NeuRO**
+## : An Application for Code-Switched Autism Detection in Children 
+
+# *Autism Detection from Voice* 🎙️
 
 An advanced tool for detecting autism using voice analysis. This app leverages cutting-edge machine learning to assist in early detection and awareness.
 
